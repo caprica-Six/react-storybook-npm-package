@@ -21,3 +21,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `yarn run storybook`
 
 Run Storybook
+
+### `yarn run deploy-storybook -- --existing-output-dir=.out`
+
+Deploy storybook to github pages with [storybook-deployer](https://github.com/storybookjs/storybook-deployer)
+If you need to configure the output directory you can supply the out flag.
