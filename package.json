@@ -1,7 +1,8 @@
 {
-  "name": "app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "custom-button",
+  "version": "1.0.0",
+  "description": "How to register a simple React component with Storybook and npm",
+  "private": false,
   "homepage": "http://caprica-Six.github.io/react-storybook-npm-package",
   "dependencies": {
     "@babel/core": "^7.8.7",
