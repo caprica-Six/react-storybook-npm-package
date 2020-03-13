@@ -1,6 +1,6 @@
 {
-  "name": "custom-button",
-  "version": "1.0.0",
+  "name": "@caprica-six/custom-button",
+  "version": "1.0.1",
   "description": "How to register a simple React component with Storybook and npm",
   "private": false,
   "homepage": "http://caprica-Six.github.io/react-storybook-npm-package",
