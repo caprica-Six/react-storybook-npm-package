@@ -44,3 +44,4 @@ Update package version in package.json or npm version 1.0.0
 [React](https://github.com/facebook/create-react-app) [Storybook](https://storybook.js.org/docs/guides/guide-react/)
 
 [![npm version](https://img.shields.io/npm/v/@caprica-six/custom-button?style=for-the-badge)](https://www.npmjs.com/package/@caprica-six/custom-button)
+[![demo site](https://img.shields.io/badge/demo-site-green)](https://www.npmjs.com/package/@caprica-six/custom-button)
