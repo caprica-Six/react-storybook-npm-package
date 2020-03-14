@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-storybook-npm-package/main.67976ee6068031490635.bundle.js",
+    "main.js.map": "/react-storybook-npm-package/main.67976ee6068031490635.bundle.js.map",
+    "runtime~main.js": "/react-storybook-npm-package/runtime~main.67976ee6068031490635.bundle.js",
+    "runtime~main.js.map": "/react-storybook-npm-package/runtime~main.67976ee6068031490635.bundle.js.map",
+    "vendors~main.js": "/react-storybook-npm-package/vendors~main.67976ee6068031490635.bundle.js",
+    "vendors~main.js.map": "/react-storybook-npm-package/vendors~main.67976ee6068031490635.bundle.js.map",
+    "iframe.html": "/react-storybook-npm-package/iframe.html",
+    "precache-manifest.f8ccf014562251c000c83ab57e89dbee.js": "/react-storybook-npm-package/precache-manifest.f8ccf014562251c000c83ab57e89dbee.js",
+    "service-worker.js": "/react-storybook-npm-package/service-worker.js",
+    "vendors~main.67976ee6068031490635.bundle.js.LICENSE.txt": "/react-storybook-npm-package/vendors~main.67976ee6068031490635.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.67976ee6068031490635.bundle.js",
+    "vendors~main.67976ee6068031490635.bundle.js",
+    "main.67976ee6068031490635.bundle.js"
+  ]
+}
