@@ -1,34 +1,42 @@
-### How to register a simple React component with Storybook and npm
+## How to register a simple React component with Storybook and npm
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Storybook](https://storybook.js.org/docs/guides/guide-react/)
+### Install
 
-## Available Scripts
+#### `npm i '@caprica-six/custom-button'`
 
-In the app directory, you can run:
+#### `yarn add '@caprica-six/custom-button'`
 
-### `yarn start`
+### Usage
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+import { CustomButton } from '@caprica-six/custom-button'
 
-The page will reload if you make edits.<br />
+const MyComponent = () => {
+    return (
+        <CustomButton>Default</CustomButton>
+    )
+}
+```
 
-### `yarn test`
+### Available Scripts
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### `yarn start`
 
-### `yarn run storybook`
+#### `yarn run storybook`
 
 Run Storybook
 
-### `yarn run deploy-storybook -- --out=.out`
+#### `yarn run deploy-storybook -- --out=.out`
 
 Deploy storybook to github pages with [storybook-deployer](https://github.com/storybookjs/storybook-deployer)
 If you need to configure the output directory you can supply the out flag.
 
 Publish npm package:
 
-1. Update package version in package.json or npm version 1.0.1
-2. ### `yarn build`
-3. ### `yarn publish --access=public` - if the package is free
+1. Update package version in package.json or npm version 1.0.0
+2. #### `yarn build`
+3. #### `yarn publish --access=public`
+
+### Keywords
+
+[React](https://github.com/facebook/create-react-app) [Storybook](https://storybook.js.org/docs/guides/guide-react/)
