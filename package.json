@@ -1,6 +1,6 @@
 {
   "name": "@caprica-six/custom-button",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "How to register a simple React component with Storybook and npm",
   "auhtor": {
     "name": "Pepa Dom",
