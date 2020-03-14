@@ -2,9 +2,9 @@
 
 ### Install
 
-#### `npm i '@caprica-six/custom-button'`
+#### `npm i @caprica-six/custom-button`
 
-#### `yarn add '@caprica-six/custom-button'`
+#### `yarn add @caprica-six/custom-button`
 
 ### Usage
 
@@ -33,10 +33,14 @@ If you need to configure the output directory you can supply the out flag.
 
 Publish npm package:
 
-1. Update package version in package.json or npm version 1.0.0
-2. #### `yarn build`
-3. #### `yarn publish --access=public`
+Update package version in package.json or npm version 1.0.0
+
+#### `yarn build`
+
+#### `yarn publish --access=public`
 
 ### Keywords
 
 [React](https://github.com/facebook/create-react-app) [Storybook](https://storybook.js.org/docs/guides/guide-react/)
+
+[![npm version](https://img.shields.io/npm/v/@caprica-six/custom-button?style=for-the-badge)](https://www.npmjs.com/package/@caprica-six/custom-button)
