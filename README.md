@@ -22,7 +22,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Run Storybook
 
-### `yarn run deploy-storybook -- --existing-output-dir=.out`
+### `yarn run deploy-storybook -- --out=.out`
 
 Deploy storybook to github pages with [storybook-deployer](https://github.com/storybookjs/storybook-deployer)
 If you need to configure the output directory you can supply the out flag.
+
+Publish npm package:
+
+1. Update package version in package.json or npm version 1.0.1
+2. ### `yarn build`
+3. ### `yarn publish --access=public` - if the package is free

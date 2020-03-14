@@ -1,13 +1,13 @@
 {
   "name": "@caprica-six/custom-button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "How to register a simple React component with Storybook and npm",
   "auhtor": {
     "name": "Pepa Dom",
     "email": "mogwais@outlook.com"
   },
   "private": false,
-  "homepage": "http://caprica-Six.github.io/react-storybook-npm-package",
+  "homepage": "https://github.com/caprica-Six/react-storybook-npm-package",
   "dependencies": {
     "@babel/core": "^7.8.7",
     "@storybook/react": "^5.3.14",
